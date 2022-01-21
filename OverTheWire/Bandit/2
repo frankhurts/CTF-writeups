@@ -1,0 +1,5 @@
+# Level 2
+
+- File had a '-' as a name
+    - after some googling that's BASH's way of recognizing stdin/stout
+    - just use the whole file path to properly reference it with cat/less

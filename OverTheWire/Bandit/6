@@ -1,0 +1,9 @@
+# Level
+
+- this is needed a bit of learning on the 'find' command
+    - it was a huge man file, so I googled instead
+- I was on the right track with 'find -size 1033b'
+    - instead it was 'find -size 1033c'
+    - just read the man page too quickly, 'c' is the flag for 'bytes'
+
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7

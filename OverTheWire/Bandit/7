@@ -1,0 +1,10 @@
+# Level 7
+
+- same kind of find detailing
+    - 'find / * -size 33c -user bandit7 -group6'
+    - '/ *' to everywhere for anything
+    - size thing we already know
+    - user can actually take the normal user, dont need UID
+    - same thing for group
+
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
